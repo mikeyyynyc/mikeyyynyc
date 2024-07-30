@@ -1,4 +1,4 @@
-## Hi, I'm Micah 😎 ![Uploading mariodancing.gif…]()
+## Hi, I'm Micah 😎 ![3efe5c9ce459bc11f07acc8f56a0f9b01b5e3056_00](https://github.com/user-attachments/assets/925a3ee6-91f2-46b7-8502-98fc1dae627c)
 
 
 
