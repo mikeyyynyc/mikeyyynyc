@@ -1,4 +1,5 @@
-## Hi, I'm Micah 😎 ![mariodancing](https://github.com/user-attachments/assets/a73d0e8a-7040-4549-98ed-6d938207f1cc) ![images](https://github.com/user-attachments/assets/b763274e-30e7-4995-811a-c12c962b088d)
+## Hi, I'm Micah 😎 ![mariodancing](https://github.com/user-attachments/assets/a73d0e8a-7040-4549-98ed-6d938207f1cc)   ![cbbb6171cdb203caa901a9e74a6dfb86](https://github.com/user-attachments/assets/2ced2dca-bc04-494a-897f-b671111b321e)
+
 
 
 
