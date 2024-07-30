@@ -1,4 +1,4 @@
-## Hi, I'm Micah 😎 ![wavinghand](https://github.com/user-attachments/assets/9cbb4a7e-f2cd-4583-8feb-dd919ecc61bc)
+## Hi, I'm Micah 😎 <img src="![wavinghand](https://github.com/user-attachments/assets/9cbb4a7e-f2cd-4583-8feb-dd919ecc61bc)"
 
 ![Software Engineer Cover](https://github.com/user-attachments/assets/df8463b0-9a54-42e3-9f47-b9cad30135a6)
 
