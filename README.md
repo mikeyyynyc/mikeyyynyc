@@ -1,4 +1,5 @@
-## Hi, I'm Micah 😎 ![image](https://github.com/user-attachments/assets/1e03970d-ab63-4949-8c13-d627e6460ae6 )
+## Hi, I'm Micah 😎 ![03895f4b7f947fca2aac0523eeb81a7d](https://github.com/user-attachments/assets/ca029deb-12e5-446b-bc72-6145387f9b3a)
+
 
 ![Software Engineer Cover](https://github.com/user-attachments/assets/67df9815-fd51-4e38-8e94-21b5a6a2a384)
 
