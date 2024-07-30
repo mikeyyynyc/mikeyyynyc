@@ -1,4 +1,4 @@
-## Hi, I'm Micah 😎 ![image](https://github.com/user-attachments/assets/1e03970d-ab63-4949-8c13-d627e6460ae6 )=250x250
+## Hi, I'm Micah 😎 ![image](https://github.com/user-attachments/assets/1e03970d-ab63-4949-8c13-d627e6460ae6 )
 
 
 
