@@ -1,4 +1,5 @@
-## Hi, I'm Micah 😎 <img src="https://i.pinimg.com/originals/03/89/5f/03895f4b7f947fca2aac0523eeb81a7d.gif" alt="pixel art nintendo gif"/>![Uploading image.png…]()
+## Hi, I'm Micah 😎 ![image](https://github.com/user-attachments/assets/1e03970d-ab63-4949-8c13-d627e6460ae6)
+
 
 
 
