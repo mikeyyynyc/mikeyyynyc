@@ -12,5 +12,4 @@
 
 ★ Places where you can find me! ★
 
-➡ My Instagram: https://www.instagram.com/itz.mik3yy/?igsh=MWdpYWRwMXRiam4waA%3D%3D
 ➡ My Email: micahwilliams937@gmail.com
