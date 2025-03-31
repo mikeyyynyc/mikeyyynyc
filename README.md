@@ -24,7 +24,7 @@ Random Password Generator – A project built to grant users strong and secured 
 ![image](https://github.com/user-attachments/assets/118a5dcc-1d71-4c36-8d57-b2c3a9c38338)
 
 ## 💬 Let's Connect!
-🌐 LinkedIn: https://mwilliams.my.canva.site/
+🌐 LinkedIn: https://www.linkedin.com/in/micah-williams-43337b2a4/
 
 📧 Email: micahwilliams937@gmail.com
 
