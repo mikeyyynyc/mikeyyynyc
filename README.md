@@ -1,15 +1,33 @@
-## Hi, I'm Micah 😎 ![03895f4b7f947fca2aac0523eeb81a7d](https://github.com/user-attachments/assets/ca029deb-12e5-446b-bc72-6145387f9b3a)
+# Hello! I'm Micah Williams 👨🏾‍💻👾
+Welcome to my GitHub kingdom! I'm a young Software Engineer who is destined to build powerful apps, tackle complex problems, and have a little fun along the way. Whether I'm working on maintaining a solid GPA, I’m always in developer mode.
 
+## 🚀 Who Am I?
+🎓 A senior in highschool with a focus on writing clean code that carries creativity and innovation.
 
-![Software Engineer Cover](https://github.com/user-attachments/assets/67df9815-fd51-4e38-8e94-21b5a6a2a384)
+👨🏾 A Black, first generation student.
 
+🕹️⛹🏾 When I’m not coding, you can probably find me playing Super Mario or playing basketball!
 
-★ I am 17 years old and currently attending the Urban Assembly Gateway School for Technology as a senior. My passion for becoming a software engineer is driven by a deep fascination with technology and video games. Ever since the 4th grade, I've been interested by how code can transform creative ideas into reality. The prospect of constantly keeping up with technology and continuously learning excites me, as I am eager to contribute to the entertainment of many others one day.. through the creation of video games that can hopefully be an escape for people. ★ 
+## 💻 My Tech Stack
+Languages: HTML, CSS, JavaScript, Python, and Java (My primary language lol!)
 
-★ While your at it, take a look at my portofolio below where you can find some of the projects I've worked on! ★
+Tools: Git, BitBucket, VSCode, Postman, Splunk, Datadog, Swagger UI
 
-[mwilliams.my.canva.site](https://mwilliams.my.canva.site/)
+## 🏗️ Projects: 
+Pac-Man – A code.org project to reanact the original Pac-Man game with some extra additions =)
 
-★ Places where you can find me! ★
+ATM System – A Python Project built to reanact the functionailities of a real life ATM.
 
-➡ My Email: micahwilliams937@gmail.com
+Random Password Generator – A project built to grant users strong and secured passwords.
+
+## 🔧 Current Focus: Loading... ![image](https://github.com/user-attachments/assets/118a5dcc-1d71-4c36-8d57-b2c3a9c38338)
+
+## 💬 Let's Connect!
+🌐 LinkedIn: https://mwilliams.my.canva.site/
+
+📧 Email: micahwilliams937@gmail.com
+
+🖼️ Portfolio: https://mwilliams.my.canva.site/
+
+## 🏆 Fun Fact
+My dream place to travel is Tokyo Japan! ⛩️
